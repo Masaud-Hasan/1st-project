@@ -88,6 +88,7 @@ body{
     font-size: 1.0262vw;
     font-weight: 600;
     padding-left: 0.5131vw;
+    outline: none;
 }
 .sicon{
     display: flex;
